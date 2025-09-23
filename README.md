@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welkom | Welcome
 
 <!--
 **der-potatoExotic/der-potatoExotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Trilingual person
+- 1.5 years of C/C++ experiences (As of 23-9-2025)
+- Former Unity GameDev from 2023 to 2024
+- Randomly uses programs to code (Either Jetbrains Rider, CLion, VS2022, Vim, or VSCode)
