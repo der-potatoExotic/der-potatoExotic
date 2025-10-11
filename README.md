@@ -19,7 +19,7 @@ Some basic things:
 - Trilingual person
 - Randomly uses programs to code (Either Jetbrains Rider, CLion, VS2022, Vim, or VSCode)
 - Questionable relation with Python
-- Hates fancy and complicated C++ features (What even is SFINAE anyway?)\
+- Hates fancy and complicated C++ features (What even is SFINAE anyway?)
 
   
 Languages that I have (painfully and (MAYBE) regretfully) experienced/used/looked:
