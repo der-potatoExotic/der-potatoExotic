@@ -15,5 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Some basic things:
 - Trilingual person
 - Randomly uses programs to code (Either Jetbrains Rider, CLion, VS2022, Vim, or VSCode)
+- Questionable relation with Python
+- Hates fancy and complicated C++ features (What even is SFINAE anyway?)\
+
+  
+Languages that I have (painfully and (MAYBE) regretfully) experienced/used/looked:
+- C# (Root)
+- C/C++ (Main thing)
+- HTML
+- CSS
+- JS
+- PHP
+- Java
+- Assembly (God no.)
+- Any shading language (GLSL, HLSL)
+- Lua
+
+Frameworks/Libraries/SDK/Game engine that I have also (painfully and (MAYBE) regretfully) experienced/used/looked:
+- .NET
+- MonoGame
+- XNA (Don't ask on how I managed to make it work on VS2022 using Windows 11)
+- Unity (...)
+- DirectX (Please no.)
+- BGFX
+- SDL
+- GLFW
+- Qt
+- A lot more.
+
+Please do not talk about my relation with Unity Technologies. [September 2023](https://en.wikipedia.org/wiki/Unity_(game_engine)#Runtime_fee_controversy) does not forget their actions. ;)
