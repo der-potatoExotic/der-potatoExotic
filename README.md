@@ -40,6 +40,7 @@ Frameworks/Libraries/SDK/Game engine that I have also (painfully and (MAYBE) reg
 - XNA (Don't ask on how I managed to make it work on VS2022 using Windows 11)
 - Unity (...)
 - DirectX (Please no.)
+- Vulkan (I would rather DirectX 12.)
 - BGFX
 - SDL
 - GLFW
