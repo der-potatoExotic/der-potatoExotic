@@ -31,13 +31,13 @@ Languages that I have (painfully and (MAYBE) regretfully) experienced/used/looke
 - PHP
 - Java
 - Assembly (God no.)
-- Any shading language (GLSL, HLSL)
+- Any shading language (GLSL, HLSL. Which I don't like.)
 - Lua
 
 Frameworks/Libraries/SDK/Game engine that I have also (painfully and (MAYBE) regretfully) experienced/used/looked:
 - .NET
 - MonoGame
-- XNA (Don't ask on how I managed to make it work on VS2022 using Windows 11)
+- XNA Framework (Don't ask on how I managed to make it work on [VS2022 using Windows 11](https://github.com/der-potatoExotic/der-potatoExotic/blob/main/Screenshot%202025-04-18%20133231.png))
 - Unity (...)
 - DirectX (Please no.)
 - Vulkan (I would rather DirectX 12.)
@@ -45,6 +45,6 @@ Frameworks/Libraries/SDK/Game engine that I have also (painfully and (MAYBE) reg
 - SDL
 - GLFW
 - Qt
-- A lot more.
+- A lot more. (Like ImGui, GLEW, FMOD, Etc.)
 
 Please do not talk about my relation with Unity Technologies. [September 2023](https://en.wikipedia.org/wiki/Unity_(game_engine)#Runtime_fee_controversy) does not forget their actions. ;)
