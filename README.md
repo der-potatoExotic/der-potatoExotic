@@ -25,6 +25,7 @@ Some basic things:
 Languages that I have (painfully and (MAYBE) regretfully) experienced/used/looked:
 - C# (Root)
 - C/C++ (Main thing)
+- Python (WHY)
 - HTML
 - CSS
 - JS
@@ -37,7 +38,7 @@ Languages that I have (painfully and (MAYBE) regretfully) experienced/used/looke
 Frameworks/Libraries/SDK/Game engine that I have also (painfully and (MAYBE) regretfully) experienced/used/looked:
 - .NET
 - MonoGame
-- XNA Framework (Don't ask on how I managed to make it work on [VS2022 using Windows 11](https://github.com/der-potatoExotic/der-potatoExotic/blob/main/Screenshot%202025-04-18%20133231.png))
+- XNA Framework (Don't ask on how I managed to make it work on [VS2022 using Windows 11](https://raw.githubusercontent.com/der-potatoExotic/der-potatoExotic/refs/heads/main/Screenshot%202025-04-18%20133231.png))
 - Unity (...)
 - DirectX (Please no.)
 - Vulkan (I would rather DirectX 12.)
