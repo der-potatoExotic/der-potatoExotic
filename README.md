@@ -21,7 +21,7 @@ Some basic things:
 - Formerly used Unity in 2023 (Version 2022.3.5f1)
 - Questionable relation with Python
 - Hates fancy and complicated C++ features (What even is SFINAE anyway?)
-- iets maken op een prive repo ('t is niet klein noch makkelijk hehe)
+- iets maken op een prive repo ('t is niet klein noch makkelÿk/makkerlijk hehe)
 
   
 Languages that I have (painfully and (MAYBE) regretfully) experienced/used/looked:
