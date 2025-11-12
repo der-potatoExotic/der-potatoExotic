@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 Some basic things:
 - Trilingual person
 - Randomly uses programs to code (Either Jetbrains Rider, CLion, VS2022, Vim, or VSCode)
+- Formerly used Unity in 2023 (Version 2022.3.5f1)
 - Questionable relation with Python
 - Hates fancy and complicated C++ features (What even is SFINAE anyway?)
+- iets maken op een prive repo ('t is niet klein noch makkelijk hehe)
 
   
 Languages that I have (painfully and (MAYBE) regretfully) experienced/used/looked:
@@ -38,6 +40,7 @@ Languages that I have (painfully and (MAYBE) regretfully) experienced/used/looke
 Frameworks/Libraries/SDK/Game engine that I have also (painfully and (MAYBE) regretfully) experienced/used/looked:
 - .NET
 - MonoGame
+- OpenAL Soft
 - XNA Framework (Don't ask on how I managed to make it work on [VS2022 using Windows 11](https://raw.githubusercontent.com/der-potatoExotic/der-potatoExotic/refs/heads/main/Screenshot%202025-04-18%20133231.png))
 - Unity (...)
 - DirectX (Please no.)
