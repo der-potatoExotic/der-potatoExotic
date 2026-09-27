@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Some basic things:
 - Over 2 years of C/C++ experience
 - Uses either Jetbrains Rider, CLion, VS2022, Vim, Kate, or VSCode to code
-- Formerly used Unity in 2023 (Version 2022.3.5f1, gamedev I know.)
+- Used Unity in 2023 (Version 2022.3.5f1, gamedev I know. But I have 3.5.Xfx and 2019.2.7f2!)
 - Questionable relation with Python
 - Hates fancy and complicated C++ features (What even is SFINAE anyway?)
 - iets maken op een prive repo ('t is niet klein noch makkelÿk/makkelijk hehe)
